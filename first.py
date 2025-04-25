@@ -1,0 +1,8 @@
+print("ID ET243101")
+name= input("name: ")
+print(name)
+age= int(input("age: "))
+print(age)
+salary= float(input("salary: "))
+print(salary)
+print("My name is" ,name," my age is", age , "My salary is", salary,"$")
